@@ -1,4 +1,4 @@
 Enter your details below:
 
-* first_name: Régis
-* last_name: Kla
+* first_name: Vincent
+* last_name: Mouly
